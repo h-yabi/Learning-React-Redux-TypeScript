@@ -9,6 +9,7 @@ const data = {
   datasets: [
     {
       label: 'Demo line plot',
+      fill: true,
       backgroundColor: '#008080',
       borderColor: '#7fffd4',
       pointBorderWidth: 10,
